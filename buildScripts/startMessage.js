@@ -1,4 +1,4 @@
-var chalk = require('chalk');
+import chalk from 'chalk';
 
 console.log(chalk.red('Starting app in dev mode...'));
 
