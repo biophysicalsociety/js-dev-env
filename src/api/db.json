@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 16303933,
+      "firstName": "Kaylin",
+      "lastName": "Romaguera",
+      "email": "Jewell_Murray26@gmail.com"
+    },
+    {
+      "id": 98142724,
+      "firstName": "Amelie",
+      "lastName": "Dibbert",
+      "email": "Trenton45@gmail.com"
+    },
+    {
+      "id": 56647537,
+      "firstName": "Desiree",
+      "lastName": "Jerde",
+      "email": "Gregorio89@yahoo.com"
+    },
+    {
+      "id": 62183003,
+      "firstName": "Lauryn",
+      "lastName": "Buckridge",
+      "email": "Audra17@hotmail.com"
+    }
+  ]
+}
